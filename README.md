@@ -1,3 +1,3 @@
 # start
 This is my first repository<br>
-I'm learing Git 
+I'm learing Git through Youtube
